@@ -1,2 +1,2 @@
-# Python3-Tutorials-Arabic-
+# Python3-Tutorials-Arabic-Basics
 كل الاكواد الخاصه بكورس اساسيات بايثون ٣ الجزء الاول علي قناتي علي اليوتيوب
